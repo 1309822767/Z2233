@@ -1,24 +1,27 @@
 # Z2233
-����д�ˣ�ֱ�Ӱ�ԭ���ĸ��˸�2333����...�����..�������...
-2233�� Live2D ��������(Typecho)
+直接把原作的改了改2333，并更换为我自己的一言api
 
-ԭ����
+
+
+2233娘 Live2D 看板娘插件(Typecho)
+
+原作：
 [Demo: https://www.fczbl.vip/946.html](https://www.fczbl.vip/946.html)
 
-## ʹ�÷���
-1. Download ZIP, ��ѹ
-3. �ϴ���usr/plugins`Ŀ¼
-4. ��¼��̨���ü���
-5. �˲���ǻ���ԭ��Ȯ���ѽ����޸ģ���QQ����ֲTypecho��Zero����HandSome
+## 使用方法
+1. Download ZIP, 解压
+3. 上传至usr/plugins`目录
+4. 登录后台启用即可
+5. 此插件是基于原作犬の窝进行修改，由QQ爹移植Typecho，Zero适配HandSome
 
-## ʹ����֪
-�����ҪjQuery��Font Awesome��֧��
-HandSome��������Font Awesome
+## 使用须知
+插件需要jQuery和Font Awesome的支持
+HandSome无需启用Font Awesome
 
-## ��Ȩ
- GPL 2.0 Э��
+## 授权
+ GPL 2.0 协议
 
-����2233��Ȩ�� bilibili ���У�
+另，2233版权归 bilibili 所有！
 
-## ʹ�õĿ�Դ��Ŀ
+## 使用的开源项目
  - [Live2D-Src](https://github.com/journey-ad/live2d_src)
