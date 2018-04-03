@@ -1,5 +1,5 @@
 # Z2233
-直接把原作的改了改2333，并更换为我自己的一言api
+针对HandSome进行适配，并更换为我自己的一言api。
 
 
 
@@ -7,6 +7,9 @@
 
 原作：
 [Demo: https://www.fczbl.vip/946.html](https://www.fczbl.vip/946.html)
+
+Typecho移植
+https://qqdie.com/archives/l2d233.html
 
 ## 使用方法
 1. Download ZIP, 解压
