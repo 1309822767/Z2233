@@ -37,7 +37,7 @@ $('.waifu-tool .glyphicon-camera').click(function(){
 });
 loadlive2d('live2d',l2d.xb+'/model/api.php?p=33');
 function showHitokoto(){
-    $.post("https://qqdie.com/hitokoto/hitokoto.php",function(result){
+    $.post("https://lolicm.com/themespro/hitokoto/z-api.php",function(result){
         showMessage(result);
     });
 }
